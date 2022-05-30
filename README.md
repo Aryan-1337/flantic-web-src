@@ -2,7 +2,7 @@
 
 - This is the source code of **[Flantic](https://www.flantic.gg)** Discord Bot
 - Star the repo if you liked it or used the code
-- Preview this code from **[Here](https://preview.com)**
+- Preview the example website from **[Here](https://heartfelt-churros-ad85f5.netlify.app)**
 
 
 ## Contact
