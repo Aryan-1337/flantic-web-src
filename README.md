@@ -5,4 +5,4 @@
 
 
 ## Contact
-- need help related to this repo? contact me on discord - Aryan.🇮🇳#7331
+- Need help related to this repo? contact me on discord - Aryan.🇮🇳#7331
