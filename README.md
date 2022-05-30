@@ -1,6 +1,6 @@
 # flantic-web-src
 
-- This is the source code of [Flantic](https://www.flantic.gg) Discord Bot
+- This is the source code of **[Flantic](https://www.flantic.gg)** Discord Bot
 - Star the repo if you liked it or used the code
 
 
